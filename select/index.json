@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "【期間限定】パメラ - 須田景凪 LIVE 2022 \"昼想夜夢\"  at 中野サンプラザホール",
+  "base_artist": "須田景凪",
+  "createdAt": "2026-01-03T15:23:36.770725Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "パメラ",
+      "artist": "balloon",
+      "has_synced": true,
+      "path": "select/01_パメラ_balloon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "パメラ",
+      "artist": "Chevon",
+      "has_synced": false,
+      "path": "select/02_パメラ_Chevon.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "パメラ",
+      "artist": "Chevon",
+      "has_synced": true,
+      "path": "select/03_パメラ_Chevon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パメラ",
+      "artist": "須田景凪/バルーン",
+      "has_synced": false,
+      "path": "select/pl_01_パメラ_須田景凪_バルーン.txt"
+    }
+  ]
+}
